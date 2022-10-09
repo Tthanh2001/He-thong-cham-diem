@@ -1,0 +1,140 @@
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\QLD.exe
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\QLD.deps.json
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\QLD.runtimeconfig.json
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\QLD.runtimeconfig.dev.json
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\QLD.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\QLD.pdb
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Humanizer.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\lap trinh web\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\QLD.csproj.AssemblyReference.cache
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\QLD.Form1.resources
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\QLD.csproj.GenerateResource.cache
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\QLD.GeneratedMSBuildEditorConfig.editorconfig
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\QLD.AssemblyInfoInputs.cache
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\QLD.AssemblyInfo.cs
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\QLD.csproj.CoreCompileInputs.cache
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\QLD.csproj.CopyComplete
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\QLD.dll
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\refint\QLD.dll
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\QLD.pdb
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\QLD.genruntimeconfig.cache
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\ref\QLD.dll
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\QLD.HS.resources
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\QLD.TC.resources
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\QLD.MH.resources
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\QLD.LH.resources
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\QLD.LMH.resources
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\QLD.XoaHS.resources
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\QLD.EditHS.resources
+D:\lap trinh web\QLD\QLD\obj\Debug\net5.0-windows\QLD.ND.resources
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\QLD.exe
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\QLD.deps.json
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\QLD.runtimeconfig.json
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\QLD.runtimeconfig.dev.json
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\QLD.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\QLD.pdb
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Humanizer.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project-PRN211\QLD\QLD\QLD\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\QLD.csproj.AssemblyReference.cache
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\QLD.EditHS.resources
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\QLD.Form1.resources
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\QLD.HS.resources
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\QLD.LH.resources
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\QLD.LMH.resources
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\QLD.MH.resources
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\QLD.ND.resources
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\QLD.TC.resources
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\QLD.XoaHS.resources
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\QLD.csproj.GenerateResource.cache
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\QLD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\QLD.AssemblyInfoInputs.cache
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\QLD.AssemblyInfo.cs
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\QLD.csproj.CoreCompileInputs.cache
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\QLD.csproj.CopyComplete
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\QLD.dll
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\refint\QLD.dll
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\QLD.pdb
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\QLD.genruntimeconfig.cache
+D:\Project-PRN211\QLD\QLD\QLD\obj\Debug\net5.0-windows\ref\QLD.dll
